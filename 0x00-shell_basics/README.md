@@ -13,3 +13,6 @@
 12-file type prints the type of the filr iamafile
 13-symbolic link creates a link to /bin/ls , names ls
 14-copy html cpoies all the Html files from the current directory to the parent directory but only cpoies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+100-lets move moves all the files beginning with a uppercase letter to the directory /tmp/u
+101-clean emacs delets all files in current working directory that end with the character ~
+102-tree creates the directories welcome/,welcome/to/ and welcome/to/school in the current directory
